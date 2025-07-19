@@ -1,13 +1,32 @@
-# 🐍 Fundamentos de Python - Platzi
+# 🐍 Curso Fundamentos de Python - Platzi
 
-Este repositorio contiene los ejercicios y proyectos que desarrollé como parte del curso **Fundamentos de Python** de Platzi.
+¡Hola! 👋 Este repositorio contiene todo mi progreso y aprendizaje del curso **Fundamentos de Python** dictado por [Platzi](https://platzi.com).
 
-Aquí iré subiendo todo lo necesario para respaldar mi proceso de aprendizaje y obtener el certificado del curso.
+Cada carpeta representa una clase o sección del curso, incluyendo ejemplos, ejercicios y proyectos que demuestran lo aprendido en cada tema.
 
-## 🎓 Curso
+---
 
-Platzi - Fundamentos de Python
+## 🗂️ Estructura del repositorio
 
-## 📧 Contacto
+> ✔️ Este repositorio es parte de mi portafolio como estudiante y busca reflejar mi dedicación al aprendizaje práctico de la programación con Python.
 
-francis11444@gmail.com
+---
+
+## 🎓 Sobre el curso
+
+- 📚 Plataforma: [Platzi](https://platzi.com)
+- 📘 Curso: Fundamentos de Python
+- ⏳ Estado: Terminado
+
+---
+
+## 👨‍💻 Sobre mí
+
+Soy estudiante de **Diseño y Desarrollo de Software**, apasionado por el código, la tecnología y la mejora continua.
+
+- 📫 Correo: [francis11444@gmail.com](mailto:francis11444@gmail.com)
+- 🌎 Ubicación: Lima, Perú
+
+---
+
+¡Gracias por visitar este repositorio! 🚀
