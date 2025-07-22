@@ -10,6 +10,26 @@ Cada carpeta representa una clase o sección del curso, incluyendo ejemplos, eje
 
 > ✔️ Este repositorio es parte de mi portafolio como estudiante y busca reflejar mi dedicación al aprendizaje práctico de la programación con Python.
 
+📁 FundamentosPython/
+├── 📂 Clase01_HolaMundo/
+│ └── 📝 hola_mundo.py
+├── 📂 Clase02_TiposDeDatos/
+│ └── 📝 tipos_datos.py
+├── 📂 Clase03_Condicionales/
+│ └── 📝 if_elif_else.py
+├── 📂 Clase04_Ciclos/
+│ └── 📝 bucles.py
+├── 📂 Clase05_Funciones/
+│ └── 📝 funciones_basicas.py
+├── 📂 Clase06_ListasTuplas/
+│ └── 📝 estructuras_datos.py
+├── 📂 Clase07_Diccionarios/
+│ └── 📝 diccionarios.py
+├── 📂 Clase08_Modulos/
+│ └── 📝 uso_modulos.py
+└── 📂 Clase09_ProyectoFinal/
+└── 📝 proyecto_final.py
+
 ---
 
 ## 🎓 Sobre el curso
